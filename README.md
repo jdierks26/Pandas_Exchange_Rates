@@ -3,11 +3,9 @@ In this project, I will be using the pandas module to create a simple currency c
 
 Here is the prompt:
 
-Exchange Rates The text file Exchrate.txt gives information about the
-currencies of 49 major countries. Each line of the file gives the name of a country, the name of its currency, and
-the number of units of the currency that were equal to one American dollar. For instance, one American dollar is equal to
-591.4077 Chilean pesos. Use the text file Exchrate.txt in parts (a), (b), and (c).
-The text file gives the exchange rates in September 2014.
+The text file Exchrate.txt gives information about the currencies of 49 major countries. Each line of the file gives the name of a country, the name of its currency, and
+the number of units of the currency that were equal to one American dollar. For instance, one American dollar is equal to591.4077 Chilean pesos. Use the text file Exchrate.txt 
+in parts (a), (b), and (c). The text file gives the exchange rates in September 2014.
 
 a. Write a program that requests the name of a county as input and then
 displays the name of its currency and its exchange rate.
