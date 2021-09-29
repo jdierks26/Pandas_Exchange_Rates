@@ -2,6 +2,7 @@
 In this project, I will be using the pandas module to create a simple currency converter and fetcher. This project is my Final for my IST320 class, Fundamentals of Software Development.
 
 Here is the prompt:
+
 Exchange Rates The text file Exchrate.txt gives information about the
 currencies of 49 major countries. Each line of the file gives the name of a country, the name of its currency, and
 the number of units of the currency that were equal to one American dollar. For instance, one American dollar is equal to
