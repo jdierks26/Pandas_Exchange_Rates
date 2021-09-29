@@ -1,12 +1,9 @@
 import pandas as pd
 
-# Here we are loading in our erate.txt file that contains our Countries, their Currencies, and their Exchange Rates.
+# Here we are loading in our erate.txt file that contains our Countries, their Currencies, and their Exchange Rates, and storing it into a Pandas Dataframe for 
+# easy accessibility of information. 
 # Since the .txt file does not contain headers, we will have to declare them here
 df1 = pd.read_csv('erate.txt', names= ['Country', 'Currency', 'Exchange_Rate'])
-
-# Here we are converting our .txt file into a .csv file so that we can create a pandas Dataframe, which will be handy
-# for retrieving information
-df1.to_csv('erate.csv')
 
 # A
 # Write a program that requests the name of a county as input and then displays the name of its currency
